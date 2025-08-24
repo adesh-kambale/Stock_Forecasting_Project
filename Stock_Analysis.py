@@ -18,7 +18,7 @@ from math import sqrt
 
 #  Reading file 
 
-data = pd.read_csv('C:/Users/PRIME/OneDrive/Desktop/Zidio Internship/stock_data.csv')
+data = pd.read_csv('data = pd.read_csv('stock_data.csv')')
 data['Date'] = pd.to_datetime(data['Date'])
 data.set_index('Date', inplace=True)
 
@@ -99,5 +99,6 @@ st.subheader("LSTM Forecast")
 st.line_chart(lstm_forecast_df)
 
 st.success("end")
+
 
  
