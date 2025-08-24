@@ -18,7 +18,8 @@ from math import sqrt
 
 #  Reading file 
 
-data = pd.read_csv('AAPL.csv')
+data = pd.read_csv('stock_data.csv')
+
 data['Date'] = pd.to_datetime(data['Date'])
 data.set_index('Date', inplace=True)
 
@@ -102,6 +103,7 @@ st.success("end")
 
 
  
+
 
 
 
