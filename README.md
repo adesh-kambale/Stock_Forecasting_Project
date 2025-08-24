@@ -23,4 +23,7 @@ streamlit run Stock_Analysis.py
 🔗 Live Dashboard
 
 You can try the interactive dashboard here:  
-👉 [Click to View Live App][(https://adesh-kambale-stock-forecasting.streamlit.app)](https://stockforecastingproject-bjjevrysqb9f5t2ddryuqj.streamlit.app/)]
+##  Live Dashboard
+
+👉 [Click here to view the live app](https://stockforecastingproject-bjjevrysqb9f5t2ddryuqj.streamlit.app/)
+
