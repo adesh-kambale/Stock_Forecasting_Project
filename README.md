@@ -8,6 +8,15 @@ This project analyzes AAPL stock prices using various time-series models:
 - LSTM (with TensorFlow)
 - Visualized using Streamlit
 
+🔗 Live Dashboard
+
+You can try the interactive dashboard here:  
+##  Live Dashboard
+
+👉 [Click here to view the live app](https://stockforecastingproject-bjjevrysqb9f5t2ddryuqj.streamlit.app/)
+
+
+
 ## 🧪 How to Run
 
 1. Clone or download this repo.
@@ -19,11 +28,4 @@ pip install -r requirements.txt
 
 streamlit run Stock_Analysis.py
 
-
-🔗 Live Dashboard
-
-You can try the interactive dashboard here:  
-##  Live Dashboard
-
-👉 [Click here to view the live app](https://stockforecastingproject-bjjevrysqb9f5t2ddryuqj.streamlit.app/)
 
